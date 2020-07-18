@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hi there, I'm Zain Ahmed
+#### I am working on some new projects
+##### Discord: HYPER ̔̏̊DRIVE#0001
+##### E-Mail: zain@zaintech,net
+##### Website: https://zaintech.net/
 <!--
 **HYPERDRIVE-Motivator/HYPERDRIVE-Motivator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
