@@ -1,5 +1,5 @@
 #### Hi There, I am working on some new projects
-##### Discord:  [HYPEDRIVE#0001](https://discordapp.com/users/193112730943750144)
+##### Discord:  [Hyperdrive#0001](https://discordapp.com/users/193112730943750144)
 ##### E-Mail: zain@zaintech,net
 ##### Website: https://zaintech.net/
 <!--
