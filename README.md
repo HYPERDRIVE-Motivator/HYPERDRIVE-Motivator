@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 -->
 
 <!-- Credit: https://github.com/anuraghazra/github-readme-stats --> 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HYPERDRIVE-Motivator&count_private=true&show_icons=true&theme=vue-dark&custom_title=HYP3RDRIVES)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HYP3RDRIVES&count_private=true&show_icons=true&theme=vue-dark&custom_title=HYP3RDRIVES)
