@@ -1,7 +1,7 @@
 #### Hi There, I am working on some new projects
 ##### Discord:  [Hyperdrive#0001](https://discordapp.com/users/193112730943750144)
 ##### E-Mail: zain@zaintech,net
-##### Website: https://zaintech.net/
+##### Website: [https://hypr.ax/](https://hypr.ax)
 <!--
 **HYPERDRIVE-Motivator/HYPERDRIVE-Motivator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
